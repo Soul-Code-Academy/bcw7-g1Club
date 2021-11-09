@@ -1,5 +1,5 @@
 # G1 Club 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/f15gphC/logo.png" alt="logo" border="0" height="500" width="1200"></a> 
+<a href="https://github.com/alanadiastech"><img src="https://i.ibb.co/f15gphC/logo.png" alt="logo" border="0" height="500" width="1200"></a> 
 
 
 
