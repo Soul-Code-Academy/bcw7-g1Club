@@ -5,7 +5,7 @@
 
 Projeto em equipe, do módulo Bootstrap do curso fullStack de desenvolvimento Web da SoulCode.
 
-Link: https://soul-code-academy.github.io/bcw7-funkPo
+Link: https://soul-code-academy.github.io/projeto-g1Club/
 
 Equipe:
 
