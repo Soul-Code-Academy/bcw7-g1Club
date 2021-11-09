@@ -11,7 +11,7 @@ Equipe:
 
  [@AlanaDias](https://github.com/alanadiastech)
 
- [@EduardoSantos](https://github.com/alanadiastech)
+ [@EduardoSantos](https://github.com/Eduardosantos43)
 
  [@EmiliaLima](https://github.com/emilialimacor)
 
