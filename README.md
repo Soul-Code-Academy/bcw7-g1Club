@@ -13,7 +13,7 @@ Equipe:
 
  [@EduardoSantos](https://github.com/alanadiastech)
 
- [@EmiliaLima](https://github.com/emiialima)
+ [@EmiliaLima](https://github.com/emilialimacor)
 
  [@GlendaBorges](https://github.com/glendaborges)
 
