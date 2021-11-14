@@ -3,7 +3,7 @@
 
 
 
-Projeto em equipe, do módulo Bootstrap do curso fullStack de desenvolvimento Web da SoulCode.
+### Projeto em equipe, do módulo Bootstrap do curso fullStack de desenvolvimento Web da SoulCode.
 
 Link: https://soul-code-academy.github.io/projeto-g1Club/
 
@@ -20,4 +20,35 @@ Equipe:
 
 
 ### Projeto Final HTML5 + CSS3 + JavaScript + jQuery + Bootstrap
+
+
+Requisitos BootStrap:
+
+Layout responsivo usando grid 
+
+Tabela
+
+Imagens
+
+Formulário
+
+Modal
+
+Menu drop-down/nav-bar responsivo
+
+Estilo nos botões e texto 
+
+ ##
+
+Requisitos do projeto : 
+
+Site formado com 4 páginas (mínimo) 6 (máximo): 
+
+01 - Pagina inicial
+
+02 - Quem somos/Sobre Nós
+
+03 - Formulário
+
+04 - Parceiros ou Serviços
 
