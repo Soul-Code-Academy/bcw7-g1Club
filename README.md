@@ -1,11 +1,12 @@
+
+<a href="https://github.com/alanadiastech"><img src="https://i.ibb.co/f15gphC/logo.png" alt="logo" border="0" height="150" width="250"></a>
 # G1 Club 
-<a href="https://github.com/alanadiastech"><img src="https://i.ibb.co/f15gphC/logo.png" alt="logo" border="0" height="500" width="1200"></a> 
 
 
 
 ### Projeto em equipe, do módulo Bootstrap do curso fullStack de desenvolvimento Web da SoulCode.
 
-Link: https://soul-code-academy.github.io/projeto-g1Club/
+Link: https://soul-code-academy.github.io/bcw7-g1Club/
 
 Equipe:
 
